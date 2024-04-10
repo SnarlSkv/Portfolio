@@ -14,15 +14,6 @@ function Footer() {
 						<a href="#portfolio" className="footer__link">Projects</a>
 					</li>
 				</ul>
-
-				<div className="footer__social">
-				<a href="" className="footer__social-link" target="_blank">
-					<i className="bx bxl-facebook"></i>
-				</a>
-				<a href="" className="footer__social-link" target="_blank">
-					<i className="bx bxl-instagram"></i>
-				</a>
-				</div>
 				<span className="footer__copy">
 					&#169; Serhii Kuzub. All rigths reserved
 				</span>

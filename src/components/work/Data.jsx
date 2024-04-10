@@ -1,7 +1,6 @@
 import Work1 from '../../assets/work1.jpg';
 import Work2 from '../../assets/work2.jpg';
-import Work3 from '../../assets/work4.jpg';
-import Work4 from '../../assets/work5.jpg';
+import Work3 from '../../assets/work3.jpg';
 
 
 export const projectsData = [
@@ -10,24 +9,21 @@ export const projectsData = [
     image: Work1,
     title: "Portfolio",
     category: "web",
+    url: '#',
   },
   {
     id: 2,
     image: Work2,
     title: "Burger Shop",
     category: "app",
+    url: 'https://gilded-faloodeh-96bd47.netlify.app/',
   },
   {
     id: 3,
     image: Work3,
-    title: "App movil",
-    category: "app",
-  },
-  {
-    id: 4,
-    image: Work4,
     title: "Modern WebSite",
     category: "web",
+    url: 'https://brainwave-snarlskv.netlify.app/',
   },
 ];
 

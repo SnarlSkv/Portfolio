@@ -15,8 +15,12 @@ function About() {
 				<div className="about__data">
 					<Info />
 
-					<p className="about__description">There should have been information about me</p>
-					<a href='CV' className="button button--flex">Download
+					<p className="about__description">Front-End developer with deep knowledge HTML, CSS, 
+						JavaScript and the React framework, Redux/Redux Toolkit. 
+						I am a quick learner, motivated to learn something new 
+						and improve the skills I have already acquired
+					</p>
+					<a href='CV_Serhii_Kuzub_Frontend.pdf' className="button button--flex" download>Download
 					<svg
 							class="button__icon"
 							xmlns="http://www.w3.org/2000/svg"

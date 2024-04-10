@@ -25,9 +25,9 @@ function Contact() {
 							<i className="bx bx-mail-send contact__card-icon"></i>
 
 							<h3 className="contact__cars-title">Email</h3>
-							<span className="contact__card-data">kuzub2431@gmail.com</span>
+							<span className="contact__card-data">serhiikuzub@gmail.com</span>
 
-							<a href="mailto:examplemail@gmail.com" className="contact__button">
+							<a href="mailto:serhiikuzub@gmail.com" className="contact__button">
 								Write me
 								<i className="bx bx-right-arrow-alt contact__button-icon"></i>
 							</a>
@@ -37,21 +37,21 @@ function Contact() {
 							<i className="bx bxl-telegram contact__card-icon"></i>
 
 							<h3 className="contact__cars-title">Telegram</h3>
-							<span className="contact__card-data">000-000-000-000</span>
+							<span className="contact__card-data">+380508548574</span>
 
-							<a href="" className="contact__button">
+							<a href="https://t.me/serhiikuzub" className="contact__button">
 								Write me
 								<i className="bx bx-right-arrow-alt contact__button-icon"></i>
 							</a>
 						</div>
 
 						<div className="contact__card">
-							<i className="bx  contact__card-icon"></i>
+							<i className="bx bxl-github contact__card-icon"></i>
 
-							<h3 className="contact__cars-title">Discord</h3>
-							<span className="contact__card-data">abybaby</span>
+							<h3 className="contact__cars-title">GitHub</h3>
+							<span className="contact__card-data">SERHII KUZUB</span>
 
-							<a href="" className="contact__button">
+							<a href="https://github.com/SnarlSkv" className="contact__button">
 								Write me
 								<i className="bx bx-right-arrow-alt contact__button-icon"></i>
 							</a>
