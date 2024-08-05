@@ -20,7 +20,7 @@ function About() {
 						I am a quick learner, motivated to learn something new 
 						and improve the skills I have already acquired
 					</p>
-					<a href='CV_Serhii_Kuzub_Frontend.pdf' className="button button--flex" download>Download
+					<a href='/CV_Serhii_Kuzub_Frontend.pdf' className="button button--flex" download>Download
 					<svg
 							class="button__icon"
 							xmlns="http://www.w3.org/2000/svg"
